@@ -2,4 +2,4 @@ Ini merupakan branch pertama dari branch master
 
 Jadi ini bisa diibatkan sebagai file baru
 
-Menurut si B kita harus nambahin kalimat "hallo dunia"
+Ini menurut A harus ditambahin kalimat "Hallo A"
