@@ -1,1 +1,3 @@
-Ini merupakan branch pertama dari master
+Ini merupakan branch pertama dari branch master
+
+Jadi ini bisa diibatkan sebagai file baru
