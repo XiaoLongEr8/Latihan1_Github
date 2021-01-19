@@ -1,3 +1,5 @@
 Ini merupakan branch pertama dari branch master
 
 Jadi ini bisa diibatkan sebagai file baru
+
+Ini menurut A harus ditambahin kalimat "Hello"
